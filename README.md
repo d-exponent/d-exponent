@@ -1,24 +1,46 @@
-# 💫 About Me:
-I am a  fullstack developer more in love with the backend than the front. I enjoy learning new ideas and systems as well. I'm addicted to solving problems efficiently and scalably while applying established software design principles.
+# Hi there, I'm Desmond Odion 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/desmond-odion-839237242) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Eclipse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Eclipse09221) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=d-exponent&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=d-exponent&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d-exponent&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d-exponent&limit=5&theme=default&combine_all_yearly_contributions=true)
+**Senior Backend & Systems Architect | CTO & Technical Consultant**  
+*Specializing in high-throughput distributed systems, real-time architectures, and cloud infrastructure.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d-exponent&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a senior full-stack & systems engineer with extensive experience designing resilient server-side applications, high-performance APIs, and cloud infrastructure. Over the years, I’ve worked across startups, contract teams, and high-scale platforms—moving fluidly between hands-on code development and high-level architectural leadership (CTO / Lead Consultant).
+
+* 🌐 **What I Do:** Build scalable event-driven backends, engineer real-time data/streaming pipelines, and optimize database & cloud performance.
+* 🛠️ **Core Technologies:** Go (Golang), Node.js / TypeScript, Python, C#, PostgreSQL, Redis, Docker, and Hetzner / AWS cloud environments.
+* 💡 **Engineering Approach:** Pragmatic, performance-driven engineering focused on modular monoliths, clean architecture, and reliable developer ergonomics.
+
+---
+
+### 💼 Work & Consulting Trajectory
+
+- **Technical Leadership & Architecture:** Overseeing end-to-end technical strategy, cloud infrastructure migrations, and backend systems design as CTO.
+- **Backend & Systems Engineering:** Building event-driven microservices, real-time socket communication layers, REST APIs, and background job queues.
+- **DevOps & Infrastructure:** Architecting containerized deployments (Docker, K3s, Nginx, OpenResty) and cost-optimized cloud setups across AWS, Hetzner, and DigitalOcean.
+- **Contract & Freelance Consulting:** Partnering with engineering teams to build, scale, and refactor complex server-side systems.
+
+---
+
+### 🛠 Tech Stack & Expertise
+
+#### **Languages & Runtimes**
+`Go (Golang)` `TypeScript` `Node.js` `Python` `C#` `JavaScript` `HTML5 / CSS3`
+
+#### **Backend & Distributed Systems**
+`Fastify` `Express.js` `REST APIs` `WebSockets` `Socket.io` `RTMP / HLS` `BullMQ` `Centrifugo`
+
+#### **Databases & Caching**
+`PostgreSQL` `MongoDB` `Redis` `Prisma` `TypeORM` `pgx`
+
+#### **DevOps & Cloud**
+`Docker` `Docker Compose` `K3s` `Nginx` `OpenResty` `Hetzner Cloud` `AWS` `DigitalOcean` `Linux (Ubuntu/WSL2)` `Git`
+
+---
+
+### 📊 Let's Connect
+
+- 💬 **Talk to me about:** Modular monoliths vs. microservices, Redis caching patterns, real-time messaging engines, and high-concurrency Go backends.
+- 📬 **LinkedIn:** [desmond-ibhonbhio](https://linkedin.com/in/desmond-ibhonbhio-839237242)
