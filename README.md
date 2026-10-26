@@ -1,6 +1,6 @@
 # Hi there, I'm Desmond Odion 👋
 
-**Senior Backend & Systems Architect | CTO & Technical Consultant**  
+**Senior Fullstack & Systems Architect | CTO & Technical Consultant**  
 *Specializing in high-throughput distributed systems, real-time architectures, and cloud infrastructure.*
 
 ---
