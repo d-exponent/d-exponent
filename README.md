@@ -1,38 +1,40 @@
 # Hi there, I'm Desmond Odion 👋
 
-**Senior Fullstack & Systems Architect | CTO & Technical Consultant**  
-*Specializing in high-throughput distributed systems, real-time architectures, and cloud infrastructure.*
+**Full-Stack Engineer & Systems Architect**  
+*Building end-to-end web applications, high-throughput backend services, and cloud infrastructure.*
 
 ---
 
 ### 💫 About Me
 
-I am a senior full-stack & systems engineer with extensive experience designing resilient server-side applications, high-performance APIs, and cloud infrastructure. Over the years, I’ve worked across startups, contract teams, and high-scale platforms—moving fluidly between hands-on code development and high-level architectural leadership (CTO / Lead Consultant).
+I am a versatile full-stack engineer with deep expertise across both modern frontend frameworks and robust server-side architectures. While I deliver complete, user-facing web applications, my core comfort zone lies in backend engineering, distributed systems, and real-time infrastructure.
 
-* 🌐 **What I Do:** Build scalable event-driven backends, engineer real-time data/streaming pipelines, and optimize database & cloud performance.
-* 🛠️ **Core Technologies:** Go (Golang), Node.js / TypeScript, Python, C#, PostgreSQL, Redis, Docker, and Hetzner / AWS cloud environments.
-* 💡 **Engineering Approach:** Pragmatic, performance-driven engineering focused on modular monoliths, clean architecture, and reliable developer ergonomics.
+Across startups, contract projects, and technical leadership roles (including CTO), I bridge the gap between polished user interfaces and low-latency backend engines.
 
----
-
-### 💼 Work & Consulting Trajectory
-
-- **Technical Leadership & Architecture:** Overseeing end-to-end technical strategy, cloud infrastructure migrations, and backend systems design as CTO.
-- **Backend & Systems Engineering:** Building event-driven microservices, real-time socket communication layers, REST APIs, and background job queues.
-- **DevOps & Infrastructure:** Architecting containerized deployments (Docker, K3s, Nginx, OpenResty) and cost-optimized cloud setups across AWS, Hetzner, and DigitalOcean.
-- **Contract & Freelance Consulting:** Partnering with engineering teams to build, scale, and refactor complex server-side systems.
+* 🌐 **Full-Stack Capability:** End-to-end product delivery—from responsive, interactive frontends (React, Next.js, TypeScript) to production-ready server APIs and deployment pipelines.
+* 🛠️ **Core Technologies:** Go (Golang), Node.js / TypeScript, React, Next.js, Python, C#, PostgreSQL, Redis, Docker, and Hetzner / AWS cloud platforms.
+* 💡 **Engineering Approach:** Performance-driven, pragmatic architecture focused on modular monoliths, clean UI integration, efficient caching, and resilient system design.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+### 💼 Work & Engineering Trajectory
 
-#### **Languages & Runtimes**
-`Go (Golang)` `TypeScript` `Node.js` `Python` `C#` `JavaScript` `HTML5 / CSS3`
+- **Full-Stack Development:** Designing responsive client applications, interactive UI components, and integrating RESTful/WebSocket APIs with frontend frameworks (React, Next.js, React Native).
+- **Backend & Systems Engineering:** Architecting event-driven microservices, real-time streaming pipelines, sockets, and background processing queues.
+- **DevOps & Cloud Infrastructure:** Managing containerized deployments (Docker, K3s, Nginx, OpenResty) and cost-optimized infrastructure across AWS, Hetzner, and DigitalOcean.
+- **Technical Leadership & Consulting:** Directing technical strategy, guiding architectural standards, and delivering high-impact code as a consultant, lead engineer, and CTO.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+#### **Frontend & Mobile**
+`React` `Next.js` `TypeScript` `JavaScript (ES6+)` `React Native` `HTML5` `CSS3 / Tailwind` `Redux / State Management`
 
 #### **Backend & Distributed Systems**
-`Fastify` `Express.js` `REST APIs` `WebSockets` `Socket.io` `RTMP / HLS` `BullMQ` `Centrifugo`
+`Go (Golang)` `Node.js` `Fastify` `Express.js` `Python` `C#` `REST APIs` `WebSockets` `Socket.io` `RTMP / HLS` `BullMQ`
 
-#### **Databases & Caching**
+#### **Databases & Storage**
 `PostgreSQL` `MongoDB` `Redis` `Prisma` `TypeORM` `pgx`
 
 #### **DevOps & Cloud**
@@ -42,5 +44,5 @@ I am a senior full-stack & systems engineer with extensive experience designing 
 
 ### 📊 Let's Connect
 
-- 💬 **Talk to me about:** Modular monoliths vs. microservices, Redis caching patterns, real-time messaging engines, and high-concurrency Go backends.
+- 💬 **Talk to me about:** Full-stack integration patterns, backend-leaning architectures, real-time messaging, and high-concurrency Go services.
 - 📬 **LinkedIn:** [desmond-ibhonbhio](https://linkedin.com/in/desmond-ibhonbhio-839237242)
